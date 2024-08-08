@@ -1,0 +1,24 @@
+* {
+  text-align: center;
+}
+
+ol {
+  /* text-align: center; */
+  font-size: 20px;
+  list-style-position: inside;
+}
+li {
+  color: red;
+}
+.list {
+  color: black;
+}
+#list3 {
+  color: green;
+}
+li[value="4"] {
+  color: blue;
+}
+li[value="5"] {
+  color: black;
+}

@@ -1,0 +1,22 @@
+/* multiple selector --> ',' between selectors */
+h1,
+h2 {
+  color: blueviolet;
+}
+/* child Selector--> ">" sign between selectors */
+
+.box > p {
+  color: firebrick;
+}
+/* Decendent Selector--> single space between selctors  */
+div li {
+  color: blue;
+}
+/* Chaining Selector-->  No space between selectors */
+li.done {
+  color: seagreen;
+}
+/* Chaining chainers  it should be direct child or should be the ancester of the specific element and it is combine of chain and descendent selector */
+ul > p.done {
+  font-size: 0.5rem ;
+}

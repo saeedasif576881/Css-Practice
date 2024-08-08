@@ -1,0 +1,22 @@
+img {
+  height: 200px;
+  width: 200px;
+}
+.para {
+  font-size: 24px;
+}
+#red {
+  color: red;
+}
+#blue {
+  color: rgb(18, 147, 252);
+}
+#orange {
+  color: orange;
+}
+#green {
+  color: green;
+}
+#yellow {
+  color: yellow;
+}
